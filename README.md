@@ -1,4 +1,3 @@
-
 # 目标检测经典论文翻译
 中英对照，图文结合
 大家好，我是小P，致力于目标检测、模型优化压缩、实例分割。
@@ -7,3 +6,6 @@
 点击链接加入群聊【Object Detection】：https://jq.qq.com/?_wv=1027&k=5zJ5KiW
 
 美好的时代，完美的机遇。
+
+1、RCNN：Rich feature hierarchies for accurate object detection and semantic segmentation
+百度网盘链接：https://pan.baidu.com/s/1ulMbXpjWu9H7-mQyb_CEEA    提取码：f7w2
